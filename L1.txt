@@ -1,7 +1,6 @@
 Testing merge concepts
 Adding second line for second commit
 Third line
-<<<<<<< HEAD
 Branch1 data inserted
 Adding another line in br1 to file in br1
 q
