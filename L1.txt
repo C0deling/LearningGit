@@ -4,4 +4,5 @@ Third line
 Branch1 data inserted
 Adding another line in br1 to file in br1
 q
-New line in br2 
+New line in br2
+added new line
