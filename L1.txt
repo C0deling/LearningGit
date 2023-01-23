@@ -1,7 +1,8 @@
 Testing merge concepts
 Adding second line for second commit
 Third line
+<<<<<<< HEAD
 Branch1 data inserted
-Adding another line in br1[B[B[B[B[B[B[D[D[D[D[D[Dto file in br1
+Adding another line in br1 to file in br1
 q
-[A
+New line in br2 
