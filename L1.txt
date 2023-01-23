@@ -1,3 +1,4 @@
 Testing merge concepts
 Adding second line for second commit
 Third line
+New line in br2 
